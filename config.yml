@@ -160,7 +160,6 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Sharkey
-      description: The federated social media for Rhenerds
       category: public
       link: https://nerds.my.id/
     - name: The Rhendra Docs
